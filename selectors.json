@@ -1,0 +1,7 @@
+{
+    "loginPage": {
+        "userName": "//input[@name='username']",
+        "password": "//input[@name='password']",
+        "loginBtn": "//div[contains(.,'Log In')]"
+    }
+}
